@@ -26,3 +26,11 @@ summary{
     cursor: pointer;
     padding: 5px 2px;
 }
+details{
+    background-color: white;
+    color: black;
+    padding-left: 10px;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 10pt;
+ }

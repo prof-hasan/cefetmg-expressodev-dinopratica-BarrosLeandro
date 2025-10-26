@@ -22,3 +22,7 @@ details{
     border-radius: 5px;
     font-size: 11pt;
 }
+summary{
+    cursor: pointer;
+    padding: 5px 2px;
+}
